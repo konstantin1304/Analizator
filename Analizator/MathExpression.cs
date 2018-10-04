@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Analizator
 {
-    static class MathExpression
+    public static class MathExpression
     {
         /// <summary>
         /// Словарь приоритетов операторов
